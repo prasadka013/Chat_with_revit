@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+openpyxl
+boto3# add any other dependencies your app uses
