@@ -9,8 +9,8 @@ import os
 import tempfile
 
 AWS_REGION = "us-east-2"
-AWS_ACCESS_KEY_ID = "AKIA3U77TXZUEEBJKBH4"          # your AccessKeyId
-AWS_SECRET_ACCESS_KEY = "nG1YETlYptB0xHPIlH/UCFB7D8xy3RNRGGnDunZU"  # your SecretAccessKey
+AWS_ACCESS_KEY_ID = ""          # your AccessKeyId
+AWS_SECRET_ACCESS_KEY = ""  # your SecretAccessKey
 MODEL_ARN = "arn:aws:bedrock:us-east-2:801010597480:inference-profile/us.anthropic.claude-sonnet-4-20250514-v1:0"
 
 # Initialize AWS Bedrock client
