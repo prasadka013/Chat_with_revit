@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import boto3
 import json
-from rapidfuzz import fuzz
+# from rapidfuzz import fuzz
 import sys
 from io import StringIO
 import os
